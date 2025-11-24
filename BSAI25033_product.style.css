@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+.navbar {
+  background-color: #0ef502;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: rgb(62, 7, 241);
+}
+
+
+.check-products {
+  text-align: center;
+  padding: 40px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.product {
+  background-color: rgb(8, 225, 241);
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 10px;
+}

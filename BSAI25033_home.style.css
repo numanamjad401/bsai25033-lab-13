@@ -1,0 +1,56 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  background-image: url('num.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.navbar {
+  background-color: #0ef502;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: rgb(62, 7, 241);
+}
+
+.about, .check-products {
+  color: #fff;
+  text-align: center;
+  margin: 20px;
+  border-radius: 10px;
+}
+.about p{
+  font-weight: 600;
+}
+.product {
+  color: #fff;
+  background-color: rgb(8, 225, 241);
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+.btn{
+  color: #fff;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+background-color: black;
+}
